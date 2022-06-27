@@ -1,0 +1,21 @@
+.counter_in{
+    margin-top: 80px;
+    font-size: 30px;
+    display: inline-block;
+    background-color: rgb(240, 240, 230);
+}
+.counter_in button{
+    padding: 10px 20px 10px 20px;
+    border:2px solid rgb(206, 197, 197);
+    border-radius: 10px;
+    font-size: 30px;
+}
+.counter_in button:hover{
+   background: rgb(119, 116, 116);
+   color: azure;
+}
+
+.counter_in span{
+    padding: 8px 18px 8px 18px;
+  
+}
